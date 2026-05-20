@@ -1,0 +1,10 @@
+# ─────────────────────────────────────────────────────────────
+#  CodeAlpha AI Internship – Object Detection & Tracking
+#  Python Dependencies
+# ─────────────────────────────────────────────────────────────
+
+# YOLOv8 by Ultralytics (includes PyTorch, numpy, etc.)
+ultralytics>=8.0.0
+
+# OpenCV for webcam capture and image drawing
+opencv-python>=4.8.0
